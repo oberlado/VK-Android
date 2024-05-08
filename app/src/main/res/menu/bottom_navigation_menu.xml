@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/button_prev"
+        android:icon="@drawable/baseline_arrow_back"
+        android:title="Previous" />
+
+    <item
+        android:id="@+id/footer_layout"
+        android:title="Footer" />
+
+    <item
+        android:id="@+id/button_next"
+        android:icon="@drawable/baseline_arrow_forward"
+        android:title="Next" />
+</menu>
